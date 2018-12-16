@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BeerstoreApplication",
+            "request": "launch",
+            "mainClass": "com.works.beerstore.BeerstoreApplication",
+            "projectName": "beerstore"
+        }
+    ]
+}
