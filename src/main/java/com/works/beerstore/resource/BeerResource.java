@@ -17,7 +17,7 @@ public class BeerResource {
 
     @GetMapping
     public List<String> all() {
-        return Arrays.asList("Heineken", "Colorado Indiga", "Stella Artois");
+        return Arrays.asList("Heineken", "Colorado Indiga", "Stella Artois", "Bohemia");
     }
     
 }
