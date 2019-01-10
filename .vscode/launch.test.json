@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "beerstore",
+                "projectName": "beerstore",
+                "workingDirectory": "/home/kleber/dev/works/spring-boot-aws-com-docker-online/code/beerstore",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "beerstore",
+                "projectName": "beerstore",
+                "workingDirectory": "/home/kleber/dev/works/spring-boot-aws-com-docker-online/code/beerstore",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
